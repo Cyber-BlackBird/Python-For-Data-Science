@@ -7,4 +7,3 @@ It contains solvable notebooks on popular Python libraries like -
 Plotting and visualization libraries like -
 * Matplotlib 
 * Seaborn 
-* Plotly-Cufflinks.
